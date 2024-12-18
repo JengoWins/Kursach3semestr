@@ -1,7 +1,0 @@
-{
-  "userName": "StingCP",
-  "email": "jengowins",
-  "password": "12345",
-  "dateofbirths": "2024-11-07T19:34:30.805Z",
-  "pfotos": null
-}

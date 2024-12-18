@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "Hash": "aSsK6L+z51vrFWlkdnSRfL0gbRZsXfiErl6A9omgbMk=",
+  "Source": "Login_Accounts",
+  "BasePath": "_content/Login_Accounts",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\C\\Login_Accounts\\DataBasePostgres\\DataBasePostgres.csproj",
+      "Version": 2,
+      "Source": "DataBasePostgres",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Login_Accounts\\wwwroot",
+      "Source": "Login_Accounts",
+      "ContentRoot": "E:\\C\\Login_Accounts\\Login_Accounts\\wwwroot\\",
+      "BasePath": "_content/Login_Accounts",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IconFiles</name>
+    </assembly>
+    <members>
+        <member name="M:IconFiles.Controller.IconController.GetIcon">
+            <summary>
+            Запрос на вывод иконки
+            </summary>
+        </member>
+        <member name="M:IconFiles.Controller.IconController.GetListIcon">
+            <summary>
+            Запрос на вывод всех иконок постов
+            </summary>
+        </member>
+        <member name="M:IconFiles.Controller.IconController.CreateIcon(IconFiles.Models.Template.IconPostTemplate)">
+            <summary>
+            Запрос на создание иконки
+            </summary>
+        </member>
+        <member name="M:IconFiles.Controller.IconController.DeleteIcon">
+            <summary>
+            Запрос на удаление иконки
+            </summary>
+        </member>
+    </members>
+</doc>

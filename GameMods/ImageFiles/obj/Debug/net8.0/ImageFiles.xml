@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ImageFiles</name>
+    </assembly>
+    <members>
+        <member name="M:ImageFiles.Controller.ImagesController.GetImage(System.String)">
+            <summary>
+            Запрос на вывод картинки
+            </summary>
+        </member>
+        <member name="M:ImageFiles.Controller.ImagesController.GetListImage">
+            <summary>
+            Запрос на вывод картинок
+            </summary>
+        </member>
+        <member name="M:ImageFiles.Controller.ImagesController.CreateImage(ImageFiles.Models.Template.ImagesTemplate)">
+            <summary>
+            Запрос на добавление картинки
+            </summary>
+        </member>
+        <member name="M:ImageFiles.Controller.ImagesController.DeleteImage(System.String)">
+            <summary>
+            Запрос на удаление картинки
+            </summary>
+        </member>
+    </members>
+</doc>

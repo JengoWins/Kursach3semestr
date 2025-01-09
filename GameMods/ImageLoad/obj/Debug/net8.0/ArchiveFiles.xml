@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ArchiveFiles</name>
+    </assembly>
+    <members>
+        <member name="M:ArchiveFiles.Controllers.ArchiveFilesController.GetListArchives">
+            <summary>
+            Запрос на вывод списка архивов
+            </summary>
+        </member>
+        <member name="M:ArchiveFiles.Controllers.ArchiveFilesController.GetPostArchive(System.String)">
+            <summary>
+            Запрос на вывод архива
+            </summary>
+        </member>
+        <member name="M:ArchiveFiles.Controllers.ArchiveFilesController.ArchiveLoad(ArchiveFiles.Models.Template.ArchiveTemplate)">
+            <summary>
+            Запрос на создание архива
+            </summary>
+        </member>
+        <member name="M:ArchiveFiles.Controllers.ArchiveFilesController.DeleteArchive(System.String)">
+            <summary>
+            Запрос на удаление архива
+            </summary>
+        </member>
+    </members>
+</doc>

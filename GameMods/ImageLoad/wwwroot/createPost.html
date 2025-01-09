@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Создать новый пост</title>
+</head>
+<body>
+    <div class="container">
+        <div class="p-3 mb-2 bg-light text-dark border border-3 position-absolute top-50 start-50 translate-middle">
+            <form method="post">
+                <div class="mb-3">
+                    <label class="form-label">Имя поста</label>
+                    <input type="text" class="form-control" id="namePost">
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Категория игры</label>
+                    <select class="form-select" id="categoryGame">
+                        <option selected>Выберите игру</option>
+                      </select>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Краткое описание</label>
+                    <input type="text" class="form-control" id="miniDescription" >
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Полное описание</label>
+                    <textarea rows="3" class="form-control" id="description"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="formFile" class="form-label">Предварительный просмотр</label>
+                    <input class="form-control" type="file" id="formFile">
+                  </div>
+                <input class="btn btn-primary" onclick="api_set_post()" value="Создать">
+            </form>
+        </div>
+    </div>
+    <script src="js/elementOptions.js"></script>
+    <script>
+        async function api_get_category(){
+            const token = sessionStorage.getItem("Token");
+            let result0 = "";
+            const response = await fetch("http://localhost:5118/api/Posts/GetCaregoryGame",{
+                method: "GET",
+                headers: {
+                    "Accept": "application/json",
+                    "Authorization": "Bearer " + token  
+                }
+            }).then((response) => {             
+                  if(response.ok) 
+                  {
+                      result0 = response.json();           
+                  }
+              }).catch((error) => {             
+                  console.log(error);
+            });
+            dataPrev1 = await result0;
+            let count = 0;
+            while (dataPrev1[count]!= undefined){
+                count++;
+            }
+            for (let i = 0; i < count; i++) {
+                generateOption(dataPrev1[i].category);
+            }
+        };
+
+        api_get_category();
+
+        async function api_set_post(){
+            let name = document.getElementById("namePost");
+            let categoryGame = document.getElementById("categoryGame");
+            let miniDescript = document.getElementById("miniDescription");
+            let descript = document.getElementById("description");
+            let result = "";
+            const response = await fetch("http://localhost:5118/api/Posts/CreatePost", { 
+                method: 'POST',
+                mode: 'cors',
+                cache: 'no-cache',
+                headers: {
+                    "Accept": "application/json",
+                    "Authorization": "Bearer " + sessionStorage.getItem("Token"),
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    userName: sessionStorage.getItem("UserName"),
+                    namePost: name.value,
+                    typeGame: categoryGame.value,
+                    miniDescriptionPost: miniDescript.value,
+                    descriptionPost: descript.value
+                })
+            }).then((response) => {             
+                    if(response.ok) 
+                    {
+                        result = response.json();           
+                    }
+                }).catch((error) => {             
+                    console.log(error);
+                });
+            dataPrev = await result;
+            if(dataPrev.namePost!=undefined || dataPrev.namePost!=""){
+                api_set_image(dataPrev.namePost);
+            }
+        }
+        async function api_set_image(namePost){
+            let file = document.getElementById("formFile");
+            var datas = new FormData();
+            datas.append('namePost', namePost);
+            datas.append('file', file.files[0]);
+            const response = await fetch("http://localhost:5272/api/ImageFiles/IconPostsLoad", { 
+                method: 'POST',
+                mode: 'cors',
+                cache: 'no-cache',
+                body: datas
+            }).then((response) => {             
+                    if(response.ok) 
+                    {    
+                        window.location.href = 'index.html'      
+                    }
+                }).catch((error) => {             
+                    console.log(error);
+                });
+        }
+        
+    </script>
+</body>
+</html>

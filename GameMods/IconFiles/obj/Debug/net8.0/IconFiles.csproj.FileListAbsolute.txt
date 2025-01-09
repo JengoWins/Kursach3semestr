@@ -1,0 +1,118 @@
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\appsettings.Development.json
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\appsettings.json
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\IconFiles.exe
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\IconFiles.deps.json
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\IconFiles.runtimeconfig.json
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\IconFiles.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\IconFiles.pdb
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Npgsql.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.csproj.AssemblyReference.cache
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.AssemblyInfoInputs.cache
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.AssemblyInfo.cs
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.csproj.CoreCompileInputs.cache
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.MvcApplicationPartsAssemblyInfo.cs
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.MvcApplicationPartsAssemblyInfo.cache
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\staticwebassets\msbuild.IconFiles.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\staticwebassets\msbuild.build.IconFiles.props
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IconFiles.props
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IconFiles.props
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\scopedcss\bundle\IconFiles.styles.css
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.csproj.Up2Date
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.dll
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\refint\IconFiles.dll
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.pdb
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.genruntimeconfig.cache
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\ref\IconFiles.dll
+E:\C\GameMods\IconFiles\bin\Debug\net8.0\IconFiles.xml
+E:\C\GameMods\IconFiles\obj\Debug\net8.0\IconFiles.xml
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\appsettings.Development.json
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\appsettings.json
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\IconFiles.exe
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\IconFiles.deps.json
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\IconFiles.runtimeconfig.json
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\IconFiles.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\IconFiles.pdb
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\IconFiles.xml
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Npgsql.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\GameMods — копия\IconFiles\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.csproj.AssemblyReference.cache
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.AssemblyInfoInputs.cache
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.AssemblyInfo.cs
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.csproj.CoreCompileInputs.cache
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.MvcApplicationPartsAssemblyInfo.cs
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.MvcApplicationPartsAssemblyInfo.cache
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\staticwebassets\msbuild.IconFiles.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\staticwebassets\msbuild.build.IconFiles.props
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.IconFiles.props
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.IconFiles.props
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\scopedcss\bundle\IconFiles.styles.css
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.csproj.Up2Date
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.dll
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\refint\IconFiles.dll
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.xml
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.pdb
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\IconFiles.genruntimeconfig.cache
+E:\C\GameMods — копия\IconFiles\obj\Debug\net8.0\ref\IconFiles.dll

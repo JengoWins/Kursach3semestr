@@ -1,0 +1,1460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\classes\\processfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\classes\\processfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\controllers\\avatarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\controllers\\avatarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imagefiles\\controller\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|solutionrelative:imagefiles\\controller\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\classes\\modulehash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\classes\\modulehash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\models\\autoreg\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\models\\autoreg\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\models\\autoreg\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\models\\autoreg\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\models\\autoreg\\autorizationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\models\\autoreg\\autorizationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\models\\template\\accounttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\models\\template\\accounttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\models\\template\\fullaccounttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\models\\template\\fullaccounttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\controllers\\regautorizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\controllers\\regautorizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\controllers\\archivefilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\controllers\\archivefilescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\archivefiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\archivefiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\iconfiles\\controller\\iconcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|solutionrelative:iconfiles\\controller\\iconcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\login_accounts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\login_accounts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\emergencyservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\emergencyservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\controllers\\regautorizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\controllers\\regautorizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\classes\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\classes\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\iconfiles\\models\\filework\\image_iconpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|solutionrelative:iconfiles\\models\\filework\\image_iconpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\iconfiles\\models\\template\\iconposttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|solutionrelative:iconfiles\\models\\template\\iconposttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\iconfiles\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|solutionrelative:iconfiles\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\posts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\posts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imagefiles\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|solutionrelative:imagefiles\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\models\\template\\archivetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\models\\template\\archivetemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\classes\\processfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\classes\\processfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\models\\filework\\archivemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\models\\filework\\archivemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imagefiles\\models\\template\\imagestemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|solutionrelative:imagefiles\\models\\template\\imagestemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\iconfiles\\classes\\processfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|solutionrelative:iconfiles\\classes\\processfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\models\\loadmodsmodel\\developmentprocessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\models\\loadmodsmodel\\developmentprocessmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\models\\template\\developmentprogressstemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\models\\template\\developmentprogressstemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\models\\loadmodsmodel\\postinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\models\\loadmodsmodel\\postinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\models\\loadmodsmodel\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\models\\loadmodsmodel\\postmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\models\\template\\posttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\models\\template\\posttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\models\\template\\categorygametemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\models\\template\\categorygametemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\models\\filework\\image_avatarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\models\\filework\\image_avatarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\models\\filework\\fileinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\models\\filework\\fileinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\models\\template\\avatartemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\models\\template\\avatartemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\avatarfiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\avatarfiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\databaseclasses\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\classes\\modulehash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\classes\\modulehash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\rabbitmq\\irabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\rabbitmq\\irabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imagefiles\\models\\filework\\imagesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|solutionrelative:imagefiles\\models\\filework\\imagesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\iconfiles\\iconfiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|solutionrelative:iconfiles\\iconfiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\iconfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|solutionrelative:iconfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imagefiles\\imagefiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|solutionrelative:imagefiles\\imagefiles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imagefiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|solutionrelative:imagefiles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imagefiles\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|solutionrelative:imagefiles\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\iconfiles\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|solutionrelative:iconfiles\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\classes\\authoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\models\\filework\\archiveinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\models\\filework\\archiveinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\models\\filework\\fileinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\models\\filework\\fileinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imagefiles\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|solutionrelative:imagefiles\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imagefiles\\classes\\processfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|solutionrelative:imagefiles\\classes\\processfiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imagefiles\\models\\filework\\fileinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014C7F4D-1BE6-431D-BEB3-398B5A6217A5}|ImageFiles\\ImageFiles.csproj|solutionrelative:imagefiles\\models\\filework\\fileinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\iconfiles\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|solutionrelative:iconfiles\\rabbitmq\\rabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\iconfiles\\models\\filework\\fileinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BECC8A4-B7C1-42C9-BA06-803B96375587}|IconFiles\\IconFiles.csproj|solutionrelative:iconfiles\\models\\filework\\fileinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\rabbitmq\\irabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\rabbitmq\\irabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\models\\loadmodsmodel\\categorygamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\models\\loadmodsmodel\\categorygamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\avatarfiles\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3D11D2E-B6F8-4BE4-B90D-43FF0415A680}|AvatarFiles\\AvatarFiles.csproj|solutionrelative:avatarfiles\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\models\\autoreg\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\models\\autoreg\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\models\\autoreg\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\models\\autoreg\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\models\\autoreg\\autorizationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\models\\autoreg\\autorizationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\models\\template\\fullaccounttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\models\\template\\fullaccounttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\models\\template\\accounttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\models\\template\\accounttemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\emergencyservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1C8ACAB5-EA20-423E-B2E7-ABF3E56F4093}|EmergencyService\\EmergencyService.csproj|solutionrelative:emergencyservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\archivefiles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\archivefiles.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\login_accounts\\login_accounts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1D0FAA8D-057D-45CE-9232-EE3FD5D009FC}|Login_Accounts\\Login_Accounts.csproj|solutionrelative:login_accounts\\login_accounts.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\imageload\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7D49B6D-E3AA-483C-B42F-ED4CDD874EF6}|ImageLoad\\ArchiveFiles.csproj|solutionrelative:imageload\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|e:\\c\\gamemods \u2014 \u043A\u043E\u043F\u0438\u044F\\filepost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{503BA7B8-9DB3-4190-A6BF-346060182AC2}|FilePost\\Posts.csproj|solutionrelative:filepost\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Program.cs",
+              "RelativeDocumentMoniker": "FilePost\\Program.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Program.cs",
+              "RelativeToolTip": "FilePost\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAF4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:00:36.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "FilePost\\DataBaseClasses\\ApplicationContext.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeToolTip": "FilePost\\DataBaseClasses\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:51:09.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Controller\\ImagesController.cs",
+              "RelativeDocumentMoniker": "ImageFiles\\Controller\\ImagesController.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Controller\\ImagesController.cs",
+              "RelativeToolTip": "ImageFiles\\Controller\\ImagesController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAcwD0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:37:44.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessFiles.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Classes\\ProcessFiles.cs",
+              "RelativeDocumentMoniker": "AvatarFiles\\Classes\\ProcessFiles.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Classes\\ProcessFiles.cs",
+              "RelativeToolTip": "AvatarFiles\\Classes\\ProcessFiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:36:13.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabbitMQ.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\RabbitMQ\\RabbitMQ.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeToolTip": "Login_Accounts\\RabbitMQ\\RabbitMQ.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:43:04.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Classes\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "FilePost\\Classes\\AuthOptions.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Classes\\AuthOptions.cs",
+              "RelativeToolTip": "FilePost\\Classes\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T19:24:42.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AvatarController.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Controllers\\AvatarController.cs",
+              "RelativeDocumentMoniker": "AvatarFiles\\Controllers\\AvatarController.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Controllers\\AvatarController.cs",
+              "RelativeToolTip": "AvatarFiles\\Controllers\\AvatarController.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAAAK4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:37:12.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "FilePost\\Controllers\\PostsController.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "FilePost\\Controllers\\PostsController.cs",
+              "ViewState": "AQIAAEIBAAAAAAAAAAAAAG8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:07:37.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RabbitMQ.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeDocumentMoniker": "FilePost\\RabbitMQ\\RabbitMQ.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeToolTip": "FilePost\\RabbitMQ\\RabbitMQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:24:59.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RabbitMQ.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeDocumentMoniker": "AvatarFiles\\RabbitMQ\\RabbitMQ.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeToolTip": "AvatarFiles\\RabbitMQ\\RabbitMQ.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:39:38.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ModuleHash.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Classes\\ModuleHash.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\Classes\\ModuleHash.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Classes\\ModuleHash.cs",
+              "RelativeToolTip": "Login_Accounts\\Classes\\ModuleHash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:40:23.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Models\\AutoReg\\UserModel.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\Models\\AutoReg\\UserModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Models\\AutoReg\\UserModel.cs",
+              "RelativeToolTip": "Login_Accounts\\Models\\AutoReg\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:24:48.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Models\\AutoReg\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\Models\\AutoReg\\RegistrationModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Models\\AutoReg\\RegistrationModel.cs",
+              "RelativeToolTip": "Login_Accounts\\Models\\AutoReg\\RegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:24:44.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutorizationModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Models\\AutoReg\\AutorizationModel.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\Models\\AutoReg\\AutorizationModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Models\\AutoReg\\AutorizationModel.cs",
+              "RelativeToolTip": "Login_Accounts\\Models\\AutoReg\\AutorizationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T20:24:28.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Models\\Template\\AccountTemplate.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\Models\\Template\\AccountTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Models\\Template\\AccountTemplate.cs",
+              "RelativeToolTip": "Login_Accounts\\Models\\Template\\AccountTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:59:02.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FullAccountTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Models\\Template\\FullAccountTemplate.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\Models\\Template\\FullAccountTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Models\\Template\\FullAccountTemplate.cs",
+              "RelativeToolTip": "Login_Accounts\\Models\\Template\\FullAccountTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:35:30.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegAutorizController.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Controllers\\RegAutorizController.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\Controllers\\RegAutorizController.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Controllers\\RegAutorizController.cs",
+              "RelativeToolTip": "Login_Accounts\\Controllers\\RegAutorizController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwGIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:07:08.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ImageLoad\\DataBaseClasses\\ApplicationContext.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeToolTip": "ImageLoad\\DataBaseClasses\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:23:44.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RabbitMQ.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeDocumentMoniker": "ImageLoad\\RabbitMQ\\RabbitMQ.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeToolTip": "ImageLoad\\RabbitMQ\\RabbitMQ.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:46:08.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArchiveFilesController.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Controllers\\ArchiveFilesController.cs",
+              "RelativeDocumentMoniker": "ImageLoad\\Controllers\\ArchiveFilesController.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Controllers\\ArchiveFilesController.cs",
+              "RelativeToolTip": "ImageLoad\\Controllers\\ArchiveFilesController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAKAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T20:02:09.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ArchiveFiles.csproj",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\ArchiveFiles.csproj",
+              "RelativeDocumentMoniker": "ImageLoad\\ArchiveFiles.csproj",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\ArchiveFiles.csproj",
+              "RelativeToolTip": "ImageLoad\\ArchiveFiles.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T18:04:07.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IconController.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Controller\\IconController.cs",
+              "RelativeDocumentMoniker": "IconFiles\\Controller\\IconController.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Controller\\IconController.cs",
+              "RelativeToolTip": "IconFiles\\Controller\\IconController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAIIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:15:02.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Classes\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\Classes\\AuthOptions.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Classes\\AuthOptions.cs",
+              "RelativeToolTip": "Login_Accounts\\Classes\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:42:27.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Login_Accounts\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Login_Accounts\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T18:57:57.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "AvatarFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeToolTip": "AvatarFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:38:17.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login_Accounts.csproj",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Login_Accounts.csproj",
+              "RelativeDocumentMoniker": "Login_Accounts\\Login_Accounts.csproj",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Login_Accounts.csproj",
+              "RelativeToolTip": "Login_Accounts\\Login_Accounts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T16:35:05.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmergencyService.csproj",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\EmergencyService.csproj",
+              "RelativeDocumentMoniker": "EmergencyService\\EmergencyService.csproj",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\EmergencyService.csproj",
+              "RelativeToolTip": "EmergencyService\\EmergencyService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T20:08:37.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ImageFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeToolTip": "ImageFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:37:33.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegAutorizController.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Controllers\\RegAutorizController.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\Controllers\\RegAutorizController.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Controllers\\RegAutorizController.cs",
+              "RelativeToolTip": "EmergencyService\\Controllers\\RegAutorizController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:12:46.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Classes\\Registration.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\Classes\\Registration.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Classes\\Registration.cs",
+              "RelativeToolTip": "EmergencyService\\Classes\\Registration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:04:20.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Image_IconPostModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Models\\FileWork\\Image_IconPostModel.cs",
+              "RelativeDocumentMoniker": "IconFiles\\Models\\FileWork\\Image_IconPostModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Models\\FileWork\\Image_IconPostModel.cs",
+              "RelativeToolTip": "IconFiles\\Models\\FileWork\\Image_IconPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:21:05.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Posts.csproj",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Posts.csproj",
+              "RelativeDocumentMoniker": "FilePost\\Posts.csproj",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Posts.csproj",
+              "RelativeToolTip": "FilePost\\Posts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-21T18:38:33.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "IconFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeToolTip": "IconFiles\\DataBaseClasses\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:04:23.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IconPostTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Models\\Template\\IconPostTemplate.cs",
+              "RelativeDocumentMoniker": "IconFiles\\Models\\Template\\IconPostTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Models\\Template\\IconPostTemplate.cs",
+              "RelativeToolTip": "IconFiles\\Models\\Template\\IconPostTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:22:20.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\DataBaseClasses\\ApplicationContext.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeToolTip": "Login_Accounts\\DataBaseClasses\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:32:24.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ArchiveTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Models\\Template\\ArchiveTemplate.cs",
+              "RelativeDocumentMoniker": "ImageLoad\\Models\\Template\\ArchiveTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Models\\Template\\ArchiveTemplate.cs",
+              "RelativeToolTip": "ImageLoad\\Models\\Template\\ArchiveTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:34:11.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProcessFiles.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Classes\\ProcessFiles.cs",
+              "RelativeDocumentMoniker": "ImageLoad\\Classes\\ProcessFiles.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Classes\\ProcessFiles.cs",
+              "RelativeToolTip": "ImageLoad\\Classes\\ProcessFiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:04:32.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ArchiveModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Models\\FileWork\\ArchiveModel.cs",
+              "RelativeDocumentMoniker": "ImageLoad\\Models\\FileWork\\ArchiveModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Models\\FileWork\\ArchiveModel.cs",
+              "RelativeToolTip": "ImageLoad\\Models\\FileWork\\ArchiveModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:33:23.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ImagesTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Models\\Template\\ImagesTemplate.cs",
+              "RelativeDocumentMoniker": "ImageFiles\\Models\\Template\\ImagesTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Models\\Template\\ImagesTemplate.cs",
+              "RelativeToolTip": "ImageFiles\\Models\\Template\\ImagesTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:37:14.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProcessFiles.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Classes\\ProcessFiles.cs",
+              "RelativeDocumentMoniker": "IconFiles\\Classes\\ProcessFiles.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Classes\\ProcessFiles.cs",
+              "RelativeToolTip": "IconFiles\\Classes\\ProcessFiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:12:01.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "DevelopmentProcessModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\LoadModsModel\\DevelopmentProcessModel.cs",
+              "RelativeDocumentMoniker": "FilePost\\Models\\LoadModsModel\\DevelopmentProcessModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\LoadModsModel\\DevelopmentProcessModel.cs",
+              "RelativeToolTip": "FilePost\\Models\\LoadModsModel\\DevelopmentProcessModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:14:14.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DevelopmentProgresssTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\Template\\DevelopmentProgresssTemplate.cs",
+              "RelativeDocumentMoniker": "FilePost\\Models\\Template\\DevelopmentProgresssTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\Template\\DevelopmentProgresssTemplate.cs",
+              "RelativeToolTip": "FilePost\\Models\\Template\\DevelopmentProgresssTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:29:24.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PostInfoModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\LoadModsModel\\PostInfoModel.cs",
+              "RelativeDocumentMoniker": "FilePost\\Models\\LoadModsModel\\PostInfoModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\LoadModsModel\\PostInfoModel.cs",
+              "RelativeToolTip": "FilePost\\Models\\LoadModsModel\\PostInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:30:35.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PostModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\LoadModsModel\\PostModel.cs",
+              "RelativeDocumentMoniker": "FilePost\\Models\\LoadModsModel\\PostModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\LoadModsModel\\PostModel.cs",
+              "RelativeToolTip": "FilePost\\Models\\LoadModsModel\\PostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:30:17.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "PostTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\Template\\PostTemplate.cs",
+              "RelativeDocumentMoniker": "FilePost\\Models\\Template\\PostTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\Template\\PostTemplate.cs",
+              "RelativeToolTip": "FilePost\\Models\\Template\\PostTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:25:22.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "CategoryGameTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\Template\\CategoryGameTemplate.cs",
+              "RelativeDocumentMoniker": "FilePost\\Models\\Template\\CategoryGameTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\Template\\CategoryGameTemplate.cs",
+              "RelativeToolTip": "FilePost\\Models\\Template\\CategoryGameTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:25:05.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Image_AvatarModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Models\\FileWork\\Image_AvatarModel.cs",
+              "RelativeDocumentMoniker": "AvatarFiles\\Models\\FileWork\\Image_AvatarModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Models\\FileWork\\Image_AvatarModel.cs",
+              "RelativeToolTip": "AvatarFiles\\Models\\FileWork\\Image_AvatarModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:39:18.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FileInfoModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "RelativeDocumentMoniker": "AvatarFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "RelativeToolTip": "AvatarFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:38:51.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AvatarTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Models\\Template\\AvatarTemplate.cs",
+              "RelativeDocumentMoniker": "AvatarFiles\\Models\\Template\\AvatarTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Models\\Template\\AvatarTemplate.cs",
+              "RelativeToolTip": "AvatarFiles\\Models\\Template\\AvatarTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T16:40:14.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Classes\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "AvatarFiles\\Classes\\AuthOptions.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Classes\\AuthOptions.cs",
+              "RelativeToolTip": "AvatarFiles\\Classes\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:21:42.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AvatarFiles.csproj",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\AvatarFiles.csproj",
+              "RelativeDocumentMoniker": "AvatarFiles\\AvatarFiles.csproj",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\AvatarFiles.csproj",
+              "RelativeToolTip": "AvatarFiles\\AvatarFiles.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-01T16:35:00.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\DataBaseClasses\\ApplicationContext.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\DataBaseClasses\\ApplicationContext.cs",
+              "RelativeToolTip": "EmergencyService\\DataBaseClasses\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:49:18.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ModuleHash.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Classes\\ModuleHash.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\Classes\\ModuleHash.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Classes\\ModuleHash.cs",
+              "RelativeToolTip": "EmergencyService\\Classes\\ModuleHash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:38:09.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "RabbitMQ.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\RabbitMQ\\RabbitMQ.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeToolTip": "EmergencyService\\RabbitMQ\\RabbitMQ.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAUwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:27:03.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IRabbitMQ.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\RabbitMQ\\IRabbitMQ.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\RabbitMQ\\IRabbitMQ.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\RabbitMQ\\IRabbitMQ.cs",
+              "RelativeToolTip": "Login_Accounts\\RabbitMQ\\IRabbitMQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T18:04:01.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ImagesModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Models\\FileWork\\ImagesModel.cs",
+              "RelativeDocumentMoniker": "ImageFiles\\Models\\FileWork\\ImagesModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Models\\FileWork\\ImagesModel.cs",
+              "RelativeToolTip": "ImageFiles\\Models\\FileWork\\ImagesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:37:21.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Program.cs",
+              "RelativeDocumentMoniker": "ImageLoad\\Program.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Program.cs",
+              "RelativeToolTip": "ImageLoad\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAwwDMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T14:41:18.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Program.cs",
+              "RelativeDocumentMoniker": "IconFiles\\Program.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Program.cs",
+              "RelativeToolTip": "IconFiles\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADgvywAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:58:47.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ImageFiles.csproj",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\ImageFiles.csproj",
+              "RelativeDocumentMoniker": "ImageFiles\\ImageFiles.csproj",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\ImageFiles.csproj",
+              "RelativeToolTip": "ImageFiles\\ImageFiles.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T15:32:52.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IconFiles.csproj",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\IconFiles.csproj",
+              "RelativeDocumentMoniker": "IconFiles\\IconFiles.csproj",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\IconFiles.csproj",
+              "RelativeToolTip": "IconFiles\\IconFiles.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T14:02:24.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Program.cs",
+              "RelativeDocumentMoniker": "AvatarFiles\\Program.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Program.cs",
+              "RelativeToolTip": "AvatarFiles\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAArwCwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T17:31:12.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Program.cs",
+              "RelativeDocumentMoniker": "ImageFiles\\Program.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Program.cs",
+              "RelativeToolTip": "ImageFiles\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:28:24.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Classes\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "ImageFiles\\Classes\\AuthOptions.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Classes\\AuthOptions.cs",
+              "RelativeToolTip": "ImageFiles\\Classes\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:20:46.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Classes\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "IconFiles\\Classes\\AuthOptions.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Classes\\AuthOptions.cs",
+              "RelativeToolTip": "IconFiles\\Classes\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:22:25.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AuthOptions.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Classes\\AuthOptions.cs",
+              "RelativeDocumentMoniker": "ImageLoad\\Classes\\AuthOptions.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Classes\\AuthOptions.cs",
+              "RelativeToolTip": "ImageLoad\\Classes\\AuthOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T15:21:08.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Program.cs",
+              "RelativeDocumentMoniker": "Login_Accounts\\Program.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Program.cs",
+              "RelativeToolTip": "Login_Accounts\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAADEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T16:38:07.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\appsettings.json",
+              "RelativeDocumentMoniker": "ImageLoad\\appsettings.json",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\appsettings.json",
+              "RelativeToolTip": "ImageLoad\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T15:23:16.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ArchiveInfoModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Models\\FileWork\\ArchiveInfoModel.cs",
+              "RelativeDocumentMoniker": "ImageLoad\\Models\\FileWork\\ArchiveInfoModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Models\\FileWork\\ArchiveInfoModel.cs",
+              "RelativeToolTip": "ImageLoad\\Models\\FileWork\\ArchiveInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:34:52.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "FileInfoModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Models\\FileWork\\FileInfoModel.cs",
+              "RelativeDocumentMoniker": "ImageLoad\\Models\\FileWork\\FileInfoModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Models\\FileWork\\FileInfoModel.cs",
+              "RelativeToolTip": "ImageLoad\\Models\\FileWork\\FileInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T14:42:42.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RabbitMQ.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeDocumentMoniker": "ImageFiles\\RabbitMQ\\RabbitMQ.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeToolTip": "ImageFiles\\RabbitMQ\\RabbitMQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:36:50.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProcessFiles.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Classes\\ProcessFiles.cs",
+              "RelativeDocumentMoniker": "ImageFiles\\Classes\\ProcessFiles.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Classes\\ProcessFiles.cs",
+              "RelativeToolTip": "ImageFiles\\Classes\\ProcessFiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:38:06.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "FileInfoModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "RelativeDocumentMoniker": "ImageFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "RelativeToolTip": "ImageFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:37:27.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "RabbitMQ.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeDocumentMoniker": "IconFiles\\RabbitMQ\\RabbitMQ.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\RabbitMQ\\RabbitMQ.cs",
+              "RelativeToolTip": "IconFiles\\RabbitMQ\\RabbitMQ.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:00:13.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "FileInfoModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "RelativeDocumentMoniker": "IconFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\IconFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "RelativeToolTip": "IconFiles\\Models\\FileWork\\FileInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:21:07.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Program.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\Program.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Program.cs",
+              "RelativeToolTip": "EmergencyService\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T20:08:55.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\appsettings.json",
+              "RelativeDocumentMoniker": "Login_Accounts\\appsettings.json",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\appsettings.json",
+              "RelativeToolTip": "Login_Accounts\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T18:57:44.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IRabbitMQ.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\RabbitMQ\\IRabbitMQ.cs",
+              "RelativeDocumentMoniker": "FilePost\\RabbitMQ\\IRabbitMQ.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\RabbitMQ\\IRabbitMQ.cs",
+              "RelativeToolTip": "FilePost\\RabbitMQ\\IRabbitMQ.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T18:24:33.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\appsettings.json",
+              "RelativeDocumentMoniker": "FilePost\\appsettings.json",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\appsettings.json",
+              "RelativeToolTip": "FilePost\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-07T18:57:47.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CategoryGameModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\LoadModsModel\\CategoryGameModel.cs",
+              "RelativeDocumentMoniker": "FilePost\\Models\\LoadModsModel\\CategoryGameModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Models\\LoadModsModel\\CategoryGameModel.cs",
+              "RelativeToolTip": "FilePost\\Models\\LoadModsModel\\CategoryGameModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:22:30.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AvatarFiles\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\AvatarFiles\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AvatarFiles\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-02T13:54:00.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Models\\AutoReg\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\Models\\AutoReg\\RegistrationModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Models\\AutoReg\\RegistrationModel.cs",
+              "RelativeToolTip": "EmergencyService\\Models\\AutoReg\\RegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:48:09.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Models\\AutoReg\\UserModel.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\Models\\AutoReg\\UserModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Models\\AutoReg\\UserModel.cs",
+              "RelativeToolTip": "EmergencyService\\Models\\AutoReg\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:48:14.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "AutorizationModel.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Models\\AutoReg\\AutorizationModel.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\Models\\AutoReg\\AutorizationModel.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Models\\AutoReg\\AutorizationModel.cs",
+              "RelativeToolTip": "EmergencyService\\Models\\AutoReg\\AutorizationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:48:03.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "FullAccountTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Models\\Template\\FullAccountTemplate.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\Models\\Template\\FullAccountTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Models\\Template\\FullAccountTemplate.cs",
+              "RelativeToolTip": "EmergencyService\\Models\\Template\\FullAccountTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:46:50.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AccountTemplate.cs",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Models\\Template\\AccountTemplate.cs",
+              "RelativeDocumentMoniker": "EmergencyService\\Models\\Template\\AccountTemplate.cs",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Models\\Template\\AccountTemplate.cs",
+              "RelativeToolTip": "EmergencyService\\Models\\Template\\AccountTemplate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T19:48:25.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmergencyService\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\EmergencyService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmergencyService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T20:31:43.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ImageLoad\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ImageLoad\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-30T18:14:25.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FilePost\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\FilePost\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FilePost\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T19:14:19.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "ArchiveFiles",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\ArchiveFiles.csproj",
+              "RelativeDocumentMoniker": "ImageLoad\\ArchiveFiles.csproj",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\ImageLoad\\ArchiveFiles.csproj",
+              "RelativeToolTip": "ImageLoad\\ArchiveFiles.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-30T16:00:24.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Login_Accounts",
+              "DocumentMoniker": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Login_Accounts.csproj",
+              "RelativeDocumentMoniker": "Login_Accounts\\Login_Accounts.csproj",
+              "ToolTip": "E:\\C\\GameMods \u2014 \u043A\u043E\u043F\u0438\u044F\\Login_Accounts\\Login_Accounts.csproj",
+              "RelativeToolTip": "Login_Accounts\\Login_Accounts.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-07T18:57:52.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Posts</name>
+    </assembly>
+    <members>
+        <member name="M:Post.Controllers.PostsController.GetReLoadController">
+            <summary>
+            Подтверждение авторизации
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.GetCaregoryGame">
+            <summary>
+            Список категории игр
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.CreateCaregoryGame(Posts.Models.Template.CategoryGameTemplate)">
+            <summary>
+            Создание категорий игр
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.UpdateCaregoryGame(System.String,System.String)">
+            <summary>
+            Редактирование категории игр
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.DeleteCaregoryGame(System.String)">
+             <summary>
+             Удаление категории игр
+             </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Post.Controllers.PostsController.GetImagesListPost(System.String)">
+            <summary>
+            Запрос на выдачу ключа поста для активации запроса вывода всех картинок
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.GetImagesPost(System.String)">
+            <summary>
+            Запрос на выдачу ключа поста для активации запроса вывода картинки
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.CreateImagesPost(System.String)">
+            <summary>
+            Запрос на выдачу ключа поста для активации запроса создания картинки
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.DeleteImagesPost(System.String)">
+            <summary>
+            Запрос на выдачу ключа поста для активации запроса удаления картинки
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.GetArchivesListPost(System.String)">
+            <summary>
+            Запрос на выдачу ключа поста для активации запроса вывода списка архивов
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.GetArchivesPost(System.String)">
+            <summary>
+            Запрос на выдачу ключа поста для активации запроса вывода архива
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.CreateArchivesPost(System.String)">
+            <summary>
+            Запрос на выдачу ключа поста для активации запроса создания архива
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.DeleteArchivesPost(System.String)">
+            <summary>
+            Запрос на выдачу ключа поста для активации запроса на удаление архива
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.GetPost(System.String)">
+            <summary>
+            Запрос на вывод данных конкретного поста
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.GetListPosts">
+            <summary>
+            Запрос на вывод данных списка постов
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.CreatePost(Posts.Models.Template.PostTemplate)">
+            <summary>
+            Запрос на создание поста
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.UpdatePost(System.String,Posts.Models.Template.PostTemplate)">
+            <summary>
+            Запрос на изменение поста
+            </summary>
+        </member>
+        <member name="M:Post.Controllers.PostsController.DeletePost(System.String)">
+            <summary>
+            Запрос на удаление поста
+            </summary>
+        </member>
+    </members>
+</doc>

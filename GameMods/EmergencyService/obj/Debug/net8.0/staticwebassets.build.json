@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "hYUE+xs54fuxLNypWJzrkg1FghZuHwn6/Euf54Eui7M=",
+  "Source": "EmergencyService",
+  "BasePath": "_content/EmergencyService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\C\\GameMods\\DataBasePostgres\\DataBasePostgres.csproj",
+      "Version": 2,
+      "Source": "DataBasePostgres",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

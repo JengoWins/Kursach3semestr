@@ -1,0 +1,118 @@
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\appsettings.Development.json
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\appsettings.json
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\AvatarFiles.exe
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\AvatarFiles.deps.json
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\AvatarFiles.runtimeconfig.json
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\AvatarFiles.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\AvatarFiles.pdb
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Npgsql.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.csproj.AssemblyReference.cache
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.AssemblyInfoInputs.cache
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.AssemblyInfo.cs
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.csproj.CoreCompileInputs.cache
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.MvcApplicationPartsAssemblyInfo.cs
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.MvcApplicationPartsAssemblyInfo.cache
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\staticwebassets\msbuild.AvatarFiles.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\staticwebassets\msbuild.build.AvatarFiles.props
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AvatarFiles.props
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AvatarFiles.props
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\scopedcss\bundle\AvatarFiles.styles.css
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFi.C1CAECC9.Up2Date
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.dll
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\refint\AvatarFiles.dll
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.pdb
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.genruntimeconfig.cache
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\ref\AvatarFiles.dll
+E:\C\GameMods\AvatarFiles\bin\Debug\net8.0\AvatarFiles.xml
+E:\C\GameMods\AvatarFiles\obj\Debug\net8.0\AvatarFiles.xml
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\appsettings.Development.json
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\appsettings.json
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\AvatarFiles.exe
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\AvatarFiles.deps.json
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\AvatarFiles.runtimeconfig.json
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\AvatarFiles.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\AvatarFiles.pdb
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\AvatarFiles.xml
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Npgsql.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\GameMods — копия\AvatarFiles\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.csproj.AssemblyReference.cache
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.AssemblyInfoInputs.cache
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.AssemblyInfo.cs
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.csproj.CoreCompileInputs.cache
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.MvcApplicationPartsAssemblyInfo.cs
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.MvcApplicationPartsAssemblyInfo.cache
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\staticwebassets\msbuild.AvatarFiles.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\staticwebassets\msbuild.build.AvatarFiles.props
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AvatarFiles.props
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AvatarFiles.props
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\scopedcss\bundle\AvatarFiles.styles.css
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFi.C1CAECC9.Up2Date
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.dll
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\refint\AvatarFiles.dll
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.xml
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.pdb
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\AvatarFiles.genruntimeconfig.cache
+E:\C\GameMods — копия\AvatarFiles\obj\Debug\net8.0\ref\AvatarFiles.dll

@@ -1,0 +1,118 @@
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.csproj.AssemblyReference.cache
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.AssemblyInfoInputs.cache
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.AssemblyInfo.cs
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.csproj.CoreCompileInputs.cache
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.MvcApplicationPartsAssemblyInfo.cs
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.MvcApplicationPartsAssemblyInfo.cache
+E:\C\GameMods\FilePost\bin\Debug\net8.0\appsettings.Development.json
+E:\C\GameMods\FilePost\bin\Debug\net8.0\appsettings.json
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Posts.exe
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Posts.deps.json
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Posts.runtimeconfig.json
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Posts.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Posts.pdb
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Npgsql.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\GameMods\FilePost\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\GameMods\FilePost\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\GameMods\FilePost\obj\Debug\net8.0\staticwebassets\msbuild.Posts.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\GameMods\FilePost\obj\Debug\net8.0\staticwebassets\msbuild.build.Posts.props
+E:\C\GameMods\FilePost\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Posts.props
+E:\C\GameMods\FilePost\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Posts.props
+E:\C\GameMods\FilePost\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\GameMods\FilePost\obj\Debug\net8.0\scopedcss\bundle\Posts.styles.css
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.csproj.Up2Date
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.dll
+E:\C\GameMods\FilePost\obj\Debug\net8.0\refint\Posts.dll
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.pdb
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.genruntimeconfig.cache
+E:\C\GameMods\FilePost\obj\Debug\net8.0\ref\Posts.dll
+E:\C\GameMods\FilePost\bin\Debug\net8.0\Posts.xml
+E:\C\GameMods\FilePost\obj\Debug\net8.0\Posts.xml
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\appsettings.Development.json
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\appsettings.json
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Posts.exe
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Posts.deps.json
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Posts.runtimeconfig.json
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Posts.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Posts.pdb
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Posts.xml
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Npgsql.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\GameMods — копия\FilePost\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.csproj.AssemblyReference.cache
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.AssemblyInfoInputs.cache
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.AssemblyInfo.cs
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.csproj.CoreCompileInputs.cache
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.MvcApplicationPartsAssemblyInfo.cs
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.MvcApplicationPartsAssemblyInfo.cache
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\staticwebassets\msbuild.Posts.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\staticwebassets\msbuild.build.Posts.props
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Posts.props
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Posts.props
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\scopedcss\bundle\Posts.styles.css
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.csproj.Up2Date
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.dll
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\refint\Posts.dll
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.xml
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.pdb
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\Posts.genruntimeconfig.cache
+E:\C\GameMods — копия\FilePost\obj\Debug\net8.0\ref\Posts.dll

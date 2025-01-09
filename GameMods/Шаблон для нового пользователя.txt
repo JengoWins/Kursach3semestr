@@ -1,0 +1,7 @@
+Шаблон для вставки пользователя
+{
+  "userName": "Leo",
+  "email": "Leo@mail.ru",
+  "password": "12345",
+  "dateofbirths": "2024-11-07T19:34:30.805Z"
+}

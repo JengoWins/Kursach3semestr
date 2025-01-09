@@ -1,0 +1,120 @@
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.csproj.AssemblyReference.cache
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.AssemblyInfoInputs.cache
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.AssemblyInfo.cs
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.csproj.CoreCompileInputs.cache
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.MvcApplicationPartsAssemblyInfo.cs
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.MvcApplicationPartsAssemblyInfo.cache
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\appsettings.Development.json
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\appsettings.json
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\ArchiveFiles.staticwebassets.runtime.json
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\ArchiveFiles.exe
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\ArchiveFiles.deps.json
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\ArchiveFiles.runtimeconfig.json
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\ArchiveFiles.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\ArchiveFiles.pdb
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Npgsql.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\staticwebassets\msbuild.ArchiveFiles.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\staticwebassets\msbuild.build.ArchiveFiles.props
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ArchiveFiles.props
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ArchiveFiles.props
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\scopedcss\bundle\ArchiveFiles.styles.css
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveF.7D9B30CE.Up2Date
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.dll
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\refint\ArchiveFiles.dll
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.pdb
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.genruntimeconfig.cache
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ref\ArchiveFiles.dll
+E:\C\GameMods\ImageLoad\bin\Debug\net8.0\ArchiveFiles.xml
+E:\C\GameMods\ImageLoad\obj\Debug\net8.0\ArchiveFiles.xml
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\appsettings.Development.json
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\appsettings.json
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\ArchiveFiles.staticwebassets.runtime.json
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\ArchiveFiles.exe
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\ArchiveFiles.deps.json
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\ArchiveFiles.runtimeconfig.json
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\ArchiveFiles.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\ArchiveFiles.pdb
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\ArchiveFiles.xml
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Npgsql.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\GameMods — копия\ImageLoad\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.csproj.AssemblyReference.cache
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.AssemblyInfoInputs.cache
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.AssemblyInfo.cs
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.csproj.CoreCompileInputs.cache
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.MvcApplicationPartsAssemblyInfo.cs
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.MvcApplicationPartsAssemblyInfo.cache
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\staticwebassets\msbuild.ArchiveFiles.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\staticwebassets\msbuild.build.ArchiveFiles.props
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ArchiveFiles.props
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ArchiveFiles.props
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\scopedcss\bundle\ArchiveFiles.styles.css
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveF.7D9B30CE.Up2Date
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.dll
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\refint\ArchiveFiles.dll
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.xml
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.pdb
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ArchiveFiles.genruntimeconfig.cache
+E:\C\GameMods — копия\ImageLoad\obj\Debug\net8.0\ref\ArchiveFiles.dll

@@ -1,0 +1,183 @@
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\appsettings.Development.json
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\appsettings.json
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Login_Accounts.exe
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Login_Accounts.deps.json
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Login_Accounts.runtimeconfig.json
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Login_Accounts.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Login_Accounts.pdb
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Npgsql.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Accounts.csproj.AssemblyReference.cache
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Accounts.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Accounts.AssemblyInfoInputs.cache
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Accounts.AssemblyInfo.cs
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Accounts.csproj.CoreCompileInputs.cache
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Accounts.MvcApplicationPartsAssemblyInfo.cache
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.Login_Accounts.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.build.Login_Accounts.props
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Login_Accounts.props
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Login_Accounts.props
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\scopedcss\bundle\Login_Accounts.styles.css
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Ac.83E0B09C.Up2Date
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Accounts.dll
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\refint\Login_Accounts.dll
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Accounts.pdb
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Accounts.genruntimeconfig.cache
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\ref\Login_Accounts.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\Login_Accounts\Login_Accounts\obj\Debug\net8.0\Login_Accounts.MvcApplicationPartsAssemblyInfo.cs
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Login_Accounts.staticwebassets.runtime.json
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\DataBasePostgres.deps.json
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\DataBasePostgres.runtimeconfig.json
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\DataBasePostgres.exe
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\DataBasePostgres.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\DataBasePostgres.pdb
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\Login_Accounts\Login_Accounts\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\appsettings.Development.json
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\appsettings.json
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Login_Accounts.staticwebassets.runtime.json
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Login_Accounts.exe
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Login_Accounts.deps.json
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Login_Accounts.runtimeconfig.json
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Login_Accounts.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Login_Accounts.pdb
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Npgsql.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.csproj.AssemblyReference.cache
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.AssemblyInfoInputs.cache
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.AssemblyInfo.cs
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.csproj.CoreCompileInputs.cache
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.MvcApplicationPartsAssemblyInfo.cs
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.MvcApplicationPartsAssemblyInfo.cache
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.Login_Accounts.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.build.Login_Accounts.props
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Login_Accounts.props
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Login_Accounts.props
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\scopedcss\bundle\Login_Accounts.styles.css
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Ac.83E0B09C.Up2Date
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.dll
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\refint\Login_Accounts.dll
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.pdb
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.genruntimeconfig.cache
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\ref\Login_Accounts.dll
+E:\C\GameMods\Login_Accounts\bin\Debug\net8.0\Login_Accounts.xml
+E:\C\GameMods\Login_Accounts\obj\Debug\net8.0\Login_Accounts.xml
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.csproj.AssemblyReference.cache
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.GeneratedMSBuildEditorConfig.editorconfig
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.AssemblyInfoInputs.cache
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.AssemblyInfo.cs
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.csproj.CoreCompileInputs.cache
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.MvcApplicationPartsAssemblyInfo.cs
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.MvcApplicationPartsAssemblyInfo.cache
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.dll
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\refint\Login_Accounts.dll
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.xml
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.pdb
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\appsettings.Development.json
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\appsettings.json
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Login_Accounts.staticwebassets.runtime.json
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Login_Accounts.exe
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Login_Accounts.deps.json
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Login_Accounts.runtimeconfig.json
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Login_Accounts.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Login_Accounts.pdb
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Login_Accounts.xml
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Npgsql.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\RabbitMQ.Client.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\C\GameMods — копия\Login_Accounts\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\staticwebassets.build.json
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\staticwebassets.development.json
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.Login_Accounts.Microsoft.AspNetCore.StaticWebAssets.props
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.build.Login_Accounts.props
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Login_Accounts.props
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Login_Accounts.props
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\staticwebassets.pack.json
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\scopedcss\bundle\Login_Accounts.styles.css
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Ac.83E0B09C.Up2Date
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\Login_Accounts.genruntimeconfig.cache
+E:\C\GameMods — копия\Login_Accounts\obj\Debug\net8.0\ref\Login_Accounts.dll

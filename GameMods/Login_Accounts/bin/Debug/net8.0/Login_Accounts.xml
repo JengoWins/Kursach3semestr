@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Login_Accounts</name>
+    </assembly>
+    <members>
+        <member name="M:Login_Accounts.Controllers.RegAutorizController.GetTestController">
+            <summary>
+            Тестировачный поинт
+            </summary>
+        </member>
+        <member name="M:Login_Accounts.Controllers.RegAutorizController.GetCheckAccount(System.String)">
+            <summary>
+            Запрос на проверку пользователя
+            </summary>
+        </member>
+        <member name="M:Login_Accounts.Controllers.RegAutorizController.PostCreateUser(System.String)">
+            <summary>
+            Запрос на вывод ключа пользователя для создание поста
+            </summary>
+        </member>
+        <member name="M:Login_Accounts.Controllers.RegAutorizController.PostGetUser">
+            <summary>
+            Запрос на вывод данных пользователя, исходя из данных поста
+            </summary>
+        </member>
+        <member name="M:Login_Accounts.Controllers.RegAutorizController.GetAccount(System.String)">
+            <summary>
+            Запрос на вывод данных аккаунта по имени
+            </summary>
+        </member>
+        <member name="M:Login_Accounts.Controllers.RegAutorizController.GetAllAccount">
+            <summary>
+            Запрос на вывод списков аккаунтов
+            </summary>
+        </member>
+        <member name="M:Login_Accounts.Controllers.RegAutorizController.GetTokenAccount(Login_Accounts.Models.Template.AccountTemplate)">
+            <summary>
+            Запрос на авторизацию через JWT-Token
+            </summary>
+        </member>
+        <member name="M:Login_Accounts.Controllers.RegAutorizController.RegistrationAccountImage(Login_Accounts.Models.Template.FullAccountTemplate)">
+            <summary>
+            Запрос на создание аккаунта
+            </summary>
+        </member>
+        <member name="M:Login_Accounts.Controllers.RegAutorizController.UpdateAccount(System.String,Login_Accounts.Models.Template.FullAccountTemplate)">
+            <summary>
+            Запрос на изменение аккаунта
+            </summary>
+        </member>
+        <member name="M:Login_Accounts.Controllers.RegAutorizController.DeleteAccount(System.String)">
+            <summary>
+            Запрос на удаление аккаунта
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AvatarFiles</name>
+    </assembly>
+    <members>
+        <member name="M:AvatarFiles.Controllers.AvatarController.GetAvatar">
+            <summary>
+            Запрос на вывод аватарки
+            </summary>
+        </member>
+        <member name="M:AvatarFiles.Controllers.AvatarController.GetListAvatar">
+            <summary>
+            Запрос на вывод аватарок
+            </summary>
+        </member>
+        <member name="M:AvatarFiles.Controllers.AvatarController.CreateAvatar(AvatarFiles.Models.Template.AvatarTemplate)">
+            <summary>
+            Запрос на создание аватарки
+            </summary>
+        </member>
+        <member name="M:AvatarFiles.Controllers.AvatarController.UpdateAvatar(AvatarFiles.Models.Template.AvatarTemplate)">
+            <summary>
+            Запрос на изменение аватарки
+            </summary>
+        </member>
+        <member name="M:AvatarFiles.Controllers.AvatarController.DeleteAvatar">
+            <summary>
+            Запрос на удаление аватарки
+            </summary>
+        </member>
+    </members>
+</doc>
